@@ -1,0 +1,58 @@
+<aiml>
+    <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>DO YOU KNOW RONJSON</pattern>
+        <template>Yes, He is the CEO of previously known tuchop.ai now tuchop.com</template>
+    </category>
+
+     <category>
+        <pattern>DO YOU KNOW DAVID THE PROGRAMMER</pattern>
+        <template>Yes, He is part of my master"s programming company</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+
+     <category>
+        <pattern>WHO IS YOUR *</pattern>
+        <template>My * goes by the name Kyle Meshack</template>
+    </category>
+   
+
+</aiml>
